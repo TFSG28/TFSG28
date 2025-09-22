@@ -1,4 +1,12 @@
-## Hi there 👋
+<h1 align="center">Hi👋, I'm Tiago Gonçalves</h1>
+<h3 align="center">Full Stack Developer from Portugal, bringing innovation and solutions to the digital world</h3>
+
+
+<p align="center">
+  <a href="https://github.com/mauroociappinaph">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TFSG28&layout=compact&theme=radical" alt="Top Langs" />
+  </a>
+</p>
 
 <!--
 **TFSG28/TFSG28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
